@@ -1,0 +1,26 @@
+.textovermelho {
+	font-size: 14px;
+	color: #900;
+}
+
+.tamanhotab{
+	width: 1000px;
+	text-align: left;
+	font-size: 12px;
+  	
+}
+.tamanhotab2{
+	width: 998px;
+	text-align: left;
+	font-size: 12px;
+  	
+}
+.fonte1{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #066;
+	
+}
+.tamanhotab tr td p {
+	font-weight: bold;
+}
